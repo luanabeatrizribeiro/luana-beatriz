@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jovens da Agro-Indústria</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>Jovens da Agro-Indústria</h1>
+            <nav>
+                <ul>
+                    <li><a href="#">Início</a></li>
+                    <li><a href="#">Sobre Nós</a></li>
+                    <li><a href="#">Eventos</a></li>
+                    <li><a href="#">Contato</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <section id="hero">
+        <div class="container">
+            <h2>Bem-vindo ao Mundo da Agro-Indústria!</h2>
+            <p>Descubra oportunidades, eventos e histórias inspiradoras.</p>
+        </div>
+    </section>
+
+    <section id="about">
+        <div class="container">
+            <h2>Sobre Nós</h2>
+            <p>Somos uma comunidade de jovens entusiastas da agro-indústria, dedicados a promover o conhecimento e o desenvolvimento neste setor vital.</p>
+        </div>
+    </section>
+
+    <section id="events">
+        <div class="container">
+            <h2>Próximos Eventos</h2>
+            <div class="event">
+                <h3>Workshop de Inovação Agrícola</h3>
+                <p><strong>Data:</strong> 15 de Agosto de 2024</p>
+                <p><strong>Local:</strong> Centro de Convenções AgroTech</p>
+                <a href="#" class="btn">Saiba Mais</a>
+            </div>
+            <!-- Outros eventos podem ser adicionados aqui -->
+        </div>
+    </section>
+
+    <footer>
+        <div class="container">
+            <p>&copy; 2024 Jovens da Agro-Indústria. Todos os direitos reservados.</p>
+        </div>
+    </footer>
+    <script src="script.js"></script>
+</body>
+</html>
